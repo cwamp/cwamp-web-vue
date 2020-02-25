@@ -1,4 +1,5 @@
 module.exports = {
+  outputDir: "build",
   css: {
     loaderOptions: {
       less: {
@@ -6,4 +7,4 @@ module.exports = {
       }
     }
   }
-}
+};

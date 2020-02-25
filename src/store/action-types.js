@@ -1,0 +1,11 @@
+export const SWITCH_CTX = "SWITCH_CTX";
+
+export const SWITCH_IMAGE = "SWITCH_IMAGE";
+
+export const SWITCH_TEXTAREA = "SWITCH_TEXTAREA";
+
+export const SWITCH_COLOR = "SWITCH_COLOR";
+
+export const SWITCH_OPACITY = "SWITCH_OPACITY";
+
+export const SWITCH_SHOW_APP_NAME = "SWITCH_SHOW_APP_NAME";
